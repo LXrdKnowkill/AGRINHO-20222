@@ -135,7 +135,7 @@ class Overworld {
    //{ type: "battle", enemyId: "beth" }
    //{ type: "changeMap", map: "StreetLower"}
    //{ type: "textMessage", text: "This is the very first message!"}
-    ])
+    //])
  
   }
  }
